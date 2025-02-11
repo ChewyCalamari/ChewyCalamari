@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChewyCalamari
 - 👀 I’m interested in ... Powershell automation
-- 🌱 I’m currently learning ... Powershell and JavaScript
+- 🌱 I’m currently learning ... Powershell, JavaScript, Docker
 - 💞️ I’m looking to collaborate on ... Powershell scripting to help with automation
 - 📫 How to reach me ... here!
 
